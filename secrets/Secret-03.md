@@ -6,4 +6,4 @@
     $ play tetris
 ```
 
-2. Completa al menos una linea y listo, secreto encontrado ✌😄
+2. Completa al menos una línea y listo, secreto encontrado ✌😄

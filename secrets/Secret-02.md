@@ -1,6 +1,6 @@
 # Secreto 2 🐄
 
-1. Primero debes ejecutar el comando ```cowsay```. Esto mostrara un mensaje con la solucion al reto:
+1. Primero debes ejecutar el comando ```cowsay```. Esto mostrará un mensaje con la solución al reto:
 
 ```
     $ cowsay

@@ -1,6 +1,6 @@
 # Secreto 1 💃
 
-1. Desde la raiz, cambia al directorio ```src/```:
+1. Desde la raíz, cambia al directorio ```src/```:
     
 ```
     $ cd src
