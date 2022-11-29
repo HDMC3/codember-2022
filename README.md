@@ -17,6 +17,7 @@ Soluciones a los problemas y secretos del reto [Codember](https://codember.dev) 
 | 2 | [¡Atrapa a esos ciber criminales!](./challenges/challenge-02/) | thanks for playing codember please share | [Typescript](./challenges/challenge-02/C02.ts) <br> [Python](./challenges/challenge-02/C02.py) <br> [C#](./challenges/challenge-02/C02.cs) |
 | 3 | [La zebra de colores](./challenges/challenge-03/) | 30@red | [Typescript](./challenges/challenge-03/C03.ts) <br> [Python](./challenges/challenge-03/C03.py) <br> [C#](./challenges/challenge-03/C03.cs) |
 | 4 | [Encuentra la contraseña de tu amigo](./challenges/challenge-04/) | 165-23555 | [Typescript](./challenges/challenge-04/C04.ts) <br> [Python](./challenges/challenge-04/C04.py) <br> [C#](./challenges/challenge-04/C04.cs) |
+| 5 | [Battle Royale de frameworks y bibliotecas](./challenges/challenge-05/) | Diana-100 | [Typescript](./challenges/challenge-05/C05.ts) |
 
 
 ## Secretos
@@ -28,6 +29,7 @@ Soluciones a los problemas y secretos del reto [Codember](https://codember.dev) 
 - [Secreto 5](./secrets/Secret-05.md)
 - [Secreto 6](./secrets/Secret-06.md)
 - [Secreto 7](./secrets/Secret-07.md)
+- [Secreto 8](./secrets/Secret-08.md)
 
 
 ## Comandos
@@ -51,3 +53,4 @@ Soluciones a los problemas y secretos del reto [Codember](https://codember.dev) 
 - ```$ confetti```
 - ```$ play```
 - ```$ mail```
+- ```$ npm```
